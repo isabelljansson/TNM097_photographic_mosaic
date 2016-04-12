@@ -1,2 +1,2 @@
-# TNM097_photographic_mosaic
-Project in the course Image reproduction and quality at Linköping University. 
+# TNM097 Photographic Mosaic
+Project in the course Image Reproduction and Quality at Linköping University. 
